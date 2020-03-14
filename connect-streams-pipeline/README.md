@@ -1,4 +1,4 @@
-![image](../images/confluent-logo-300-2.png)
+<img src=../images/confluent-logo-300-2.png alt="Confluent, Inc." width="200">
 
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
